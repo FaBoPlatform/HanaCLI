@@ -1,4 +1,4 @@
-# Databaseを削除
+# 002 Databaseの作成
 
 ## 設定する環境変数
 
@@ -9,7 +9,7 @@
 |HOST|hanatrial.ondemand.com|
 |PASSWORD|アカウントのパスワード|
 |DATABASE_ID|DatabaseのID|
-|DBSYSTEM|-trial|
+|DBSYSTEM|-trial-|
 
 ## Databaseを作成
 

@@ -1,9 +1,8 @@
-# 開発環境(CCC)
+# 001 開発環境(CCC)
 
 ## 必要なSDK
 
-* [Eclipse(mars) IDE for Java EE Developers](http://www.eclipse.org/downloads/packages/)
-* [SAP Development Tools for Eclipse](https://tools.hana.ondemand.com/neon/)
+* [SAP HANA Cloud Platform SDK](https://tools.hana.ondemand.com/#cloud)
 
 ## インストール　
 

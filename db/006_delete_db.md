@@ -1,4 +1,4 @@
-# Databaseを削除
+# 006 Databaseを削除
 
 ## 設定する環境変数
 
